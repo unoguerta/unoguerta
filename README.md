@@ -36,4 +36,4 @@
 
 **GitHub:** You're already here 😄
 
-**LinkedIn:** *(add your link here)*
+**LinkedIn:** *www.linkedin.com/in/uno-guerta-005097153*
