@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Uno 👋
 
-<!--
-**unoguerta/unoguerta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software/Data Engineer** working on aviation-grade data pipelines.
 
-Here are some ideas to get you started:
+### ✈️ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Build aviation data pipelines on **Databricks**, **Spark**, **Delta Lake**, and **AWS**
+* Work with **Kafka/MSK**, structured streaming, Python wheels, and DAB deployments
+* Handle real-time + batch ingestion (ADS-B, FPL/CNL, Cirium, Aireon, etc.)
+* Focused on turning messy flight data into clean, reliable datasets + analytics
+* Currently engineering pipelines for the **CAAS AirHub/IEP** project
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:** Python, SQL, Scala (UDFs), Java (UDFs)
+
+**Data:** Databricks, Spark, Delta Lake, Unity Catalog
+
+**Infra:** AWS S3, ECS, MSK (Kafka), CloudWatch
+
+**Tools:** Databricks Asset Bundles, GitLab CI/CD, Docker, Notion
+
+---
+
+### 📈 Current Focus
+
+* Streaming ingestion improvements
+* Better merge logic for aviation message feeds
+* Building cleaner, maintainable DAB workflows
+
+---
+
+### 🔗 Let’s Connect
+
+**GitHub:** You're already here 😄
+
+**LinkedIn:** *(add your link here)*
