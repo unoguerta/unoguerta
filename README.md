@@ -5,10 +5,9 @@
 ### ✈️ About Me
 
 * Build aviation data pipelines on **Databricks**, **Spark**, **Delta Lake**, and **AWS**
-* Work with **Kafka/MSK**, structured streaming, Python wheels, and DAB deployments
-* Handle real-time + batch ingestion (ADS-B, FPL/CNL, Cirium, Aireon, etc.)
+* Work with **Kafka/MSK**, structured streaming, Python wheels, and Databricks Asset Bundles deployments
+* Handle real-time + batch ingestion
 * Focused on turning messy flight data into clean, reliable datasets + analytics
-* Currently engineering pipelines for the **CAAS AirHub/IEP** project
 
 ---
 
