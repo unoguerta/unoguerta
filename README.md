@@ -15,7 +15,7 @@
 
 **Languages:** Python, SQL, Scala (UDFs), Java (UDFs)
 
-**Data:** Databricks, Spark, Delta Lake, Unity Catalog
+**Data:** Databricks, Spark, Delta Lake, Unity Catalog, AWS Glue
 
 **Infra:** AWS S3, ECS, MSK (Kafka), CloudWatch
 
