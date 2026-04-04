@@ -13,11 +13,11 @@
 
 ### 🛠️ Tech Stack
 
-**Languages:** Python, SQL, Scala (UDFs), Java (UDFs)
+**Languages:** Python, SQL, Scala (UDFs), Java (UDFs), Javascript
 
 **Data:** Databricks, Spark, Delta Lake, Unity Catalog, AWS Glue
 
-**Infra:** AWS S3, ECS, MSK (Kafka), CloudWatch
+**Infra:** AWS S3, ECS, MSK (Kafka), Glue, CloudWatch
 
 **Tools:** Databricks Asset Bundles, GitLab CI/CD, Docker, Notion
 
